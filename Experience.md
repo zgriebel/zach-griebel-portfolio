@@ -11,9 +11,8 @@ permalink: /Experience/
 
 #### May 2023 - August 2023, Savage MN
 
-Lead research to reduce carbon emissions of company's primary product. Designed experiments to collect and visualize data for executive team to make decisions. Created model to optimize the material makeup.
-
-Developed material design that reduces Carbon Emissions by 12% with equivalent performance and price. When fully implemented this design will impact 85% of the product.
+Head of research to reduce carbon emissions of company's primary product. Designed experiments to collect, model and visualize data for actionable insights for the non-technical executive team. 
+Model optmized design that reduces Carbon Emissions by 12% with equivalent performance and price. When fully implemented this design will impact 85% of the product's composition. 
 
 <img src="/Hamline_logo.png" width="50" align="left" style="padding:5px"/>
 
@@ -31,7 +30,7 @@ Lead author of peer-reviewed [research](https://www.tridhascholars.org/pdfs/a-pi
 
 Worked under the lead software developer testing the companies websites and applications. Wrote design specifications and updates for developers.
 
-Worked under the head of the marketing department with front end development. Assisted in website design and ran the companies social media accounts.
+Collaborated with head of the marketing with front end development and website design. Created content and ran the companies social media accounts.
 
 <img src="/Hamline_hh_logo.png" width="50" align="left" style="padding:5px"/>
 
