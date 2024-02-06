@@ -22,7 +22,7 @@ permalink: /Honors-and-Awards/
 
 -   Lead Author of ["A Pilot Study for at-Home Measurement of Grip Strength via Telemedicine"](https://www.tridhascholars.org/pdfs/a-pilot-study-for-at-home-measurement-of-grip-strength-via-telemedicine-JOCCR-6-S11-1063.pdf)
 
--   [Part of team that wrote grant proposal](https://www.hamline.edu/news/2023/08/hamline-awarded-epa-grant-research-lead-detection-drinking-water) accepted and funded by Environmental Protection Agency
+-   [Research team wrote grant proposal](https://www.hamline.edu/news/2023/08/hamline-awarded-epa-grant-research-lead-detection-drinking-water) accepted and funded by Environmental Protection Agency
 
 -   Elected Hamline Football Captain
 
