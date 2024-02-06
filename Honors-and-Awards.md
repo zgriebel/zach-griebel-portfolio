@@ -16,7 +16,7 @@ permalink: /Honors-and-Awards/
 
 </figure>
 
--   Graduated Summa Cum Laude
+-   Graduated Magna Cum Laude
 
 -   MIAC Academic All-Conference 4x
 
