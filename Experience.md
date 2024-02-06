@@ -26,7 +26,8 @@ permalink: /Experience/
 -   Provided statistical analysis and modeling. Final model and prototype is statistically classified as "reliable" by the American Medical Association standards.
 -   First author of peer-reviewed research published in [TRIDHA: Journal of Clinical Cases & Reports](https://www.tridhascholars.org/pdfs/a-pilot-study-for-at-home-measurement-of-grip-strength-via-telemedicine-JOCCR-6-S11-1063.pdf).
 
-### <img src="/ratefast_logo.png" width="50" align="left" style="padding:5px"/> [RateFast](https://www.rate-fast.com/) / Quality Assurance Intern
+<img src="/ratefast_logo.png" width="50" align="left" style="padding:5px"/>
+###[RateFast](https://www.rate-fast.com/) / Quality Assurance Intern
 
 #### January 2022 - May 2023, Remote
 
