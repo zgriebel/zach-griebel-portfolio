@@ -10,7 +10,7 @@ permalink: /Honors-and-Awards/
 
 <figcaption style="text-align: left">
 
-<small>Hamline University President - Fayneese Miller and I <br />after Senior Night</small>
+<small>Hamline University President - Fayneese Miller and I <br />on Senior Night.</small>
 
 </figcaption>
 
@@ -18,7 +18,7 @@ permalink: /Honors-and-Awards/
 
 -   Graduated Magna Cum Laude
 
--   MIAC Academic All-Conference 4x
+-   Minnesota Intercollegiate Athletic Confrence Academic All-Conference 4x
 
 -   Lead Author of ["A Pilot Study for at-Home Measurement of Grip Strength via Telemedicine"](https://www.tridhascholars.org/pdfs/a-pilot-study-for-at-home-measurement-of-grip-strength-via-telemedicine-JOCCR-6-S11-1063.pdf)
 
