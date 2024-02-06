@@ -28,7 +28,7 @@ permalink: /Experience/
 
 <img src="/ratefast_logo.png" width="50" align="left" style="padding:5px"/>
 
-###[RateFast](https://www.rate-fast.com/) / Quality Assurance Intern
+### [RateFast](https://www.rate-fast.com/) / Quality Assurance Intern
 
 #### January 2022 - May 2023, Remote
 
