@@ -32,7 +32,7 @@ permalink: /Honors-and-Awards/
 
 <figcaption style="text-align: right">
 
-<small>My teammates and I with Hamline University <br />Vice president and Athletic Director - Alex Focke</small>
+<small>My teammates and I(red jacket and sling) with Hamline University <br />Vice president and Athletic Director - Alex Focke</small>
 
 </figcaption>
 
