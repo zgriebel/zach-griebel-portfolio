@@ -46,6 +46,6 @@ permalink: /Experience/
 
 #### August 2023 -December 2023, St. Paul
 
-Tutored students individually and in groups. Student-Athlete Mentor for class with learning and behavior delays.
+-Tutored students individually and in groups. Student-Athlete Mentor for class with learning and behavior delays.
 
-Took students on tours of Hamline University to encourage their pursuit college with the Hamline "Hand-in-Hand" program.
+-Took students on tours of Hamline University to encourage their pursuit college with the Hamline "Hand-in-Hand" program.
