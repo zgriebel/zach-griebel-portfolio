@@ -1,0 +1,12 @@
+---
+title: "ALtiQ DashBoard"
+author: "Zach"
+date: '2024-05-05'
+output:
+  html_document: default
+  pdf_document: default
+---
+
+<img src="altiq-hr-pic.png"/>
+Here is a video presentation of my AltiQ test case HR report project. 
+ [HR DashBoard](https://drive.google.com/file/d/1pStx3goX6vBRaG7TaH_yafY7WY0SUeno/view?usp=sharing)
