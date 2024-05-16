@@ -1,5 +1,5 @@
 ---
-title: "ALtiQ DashBoard"
+title: "AltiQ DashBoard"
 author: "Zach"
 date: '2024-05-03'
 output:
