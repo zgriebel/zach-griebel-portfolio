@@ -6,5 +6,6 @@ output:
   html_document: default
   pdf_document: default
 ---
+<img src="sales_report_pic.png"/>
 Here is a video presentation of my AltiQ test case sale report project. 
  [AltiQ DashBoard](https://drive.google.com/file/d/1ifP-tE6tu3bHdnf8XNO9f9eTBAjL6gCN/view?usp=sharing)
